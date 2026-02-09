@@ -4,8 +4,5 @@ manage  the database
 closing the connection
 
 change 1
-<<<<<<< HEAD
-change 2 in my database
-=======
 change 2 in aditi's database
->>>>>>> feature3
+
